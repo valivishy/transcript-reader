@@ -1,0 +1,7 @@
+channels: []
+  # Example:
+  # - id: "UCxxxxxxxxxxxxxxxxxxxxxx"
+  #   name: "Channel Name"
+  #   slug: "channel-name"
+  #   language: "en"
+  #   max_duration: 7200  # optional: skip videos longer than N seconds
