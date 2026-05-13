@@ -1,4 +1,5 @@
-const CACHE_NAME = 'transcript-reader-v1';
+const CACHE_VERSION = 1;
+const CACHE_NAME = `transcript-reader-v${CACHE_VERSION}`;
 const SHELL_ASSETS = [
   './',
   './index.html',
