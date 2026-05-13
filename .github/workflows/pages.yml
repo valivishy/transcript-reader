@@ -2,7 +2,7 @@ name: Deploy PWA
 
 on:
   push:
-    branches: [main]
+    branches: [master]
     paths: ['app/**']
 
 permissions:
